@@ -1,0 +1,3 @@
+<div class="jumbotron">
+  <h2>Fibonacci of <%= @value %> is <%= @res %>!</h2>
+</div>

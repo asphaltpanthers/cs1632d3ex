@@ -1,0 +1,11 @@
+<h2>Cathedral Pictures</h2>
+
+<div class="jumbotron">
+  <ol>
+    <li><img src="/images/cl.jpg" alt="Sunny Cathedral" height="400" width="300"></li>
+    <br>
+    <li><img src="/images/clalp.jpg" alt="Alpenglow Cathedral" height="400" width="300"></li>
+    <br>
+    <li><img src="/images/clold.jpg" alt="Old Cathedral"  height="400" width="300"></li>
+  </ol>
+</div>

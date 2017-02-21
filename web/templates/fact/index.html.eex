@@ -1,0 +1,7 @@
+<div class="jumbotron">
+  <h2>Enter number to calculate factorial of:</h2>
+  <form action="/factres/">
+    <input type="text" name="value">
+    <input type="submit" value="Submit">
+  </form>
+</div>

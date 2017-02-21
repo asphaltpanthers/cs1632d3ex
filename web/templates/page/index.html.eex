@@ -1,0 +1,8 @@
+<div class="jumbotron">
+  <h2><%= gettext "%{name}", name: "CS1632 D3" %></h2>
+  <p class="lead">Welcome, friend,<br />to a land of pure calculation.<br /><b>THE WORLD IS YOUR OYSTER</b></p>
+</div>
+
+<div class="row">
+  <p class="lead">Used for CS1632 Software Quality Assurance, taught by Bill Laboon</p>
+</div>
